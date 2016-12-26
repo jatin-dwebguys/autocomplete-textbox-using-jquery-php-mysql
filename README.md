@@ -1,0 +1,2 @@
+# autocomplete-textbox-using-jquery-php-mysql
+Autocomplete textbox is very user friendly for web project. In this tutorial you can learn how to implement google like search textbox in PHP. Using jQuery UI we can easily display auto suggestion from the database under textbox.  Let’s start the autocomplete textbox tutorial. Here we will display a textbox for skill entry. Once the user starting to enter skill, the autosuggestion skills would be listed under the textbox. These autosuggestion skills would be fetched from the database skills table.
